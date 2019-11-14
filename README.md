@@ -9,6 +9,12 @@ For each blog post there is one folder in the main repository with a jupyter not
 
 Project structure below:
 
-    main_root:
-    - folder 1
-    - folder 2
+    project_root_folder:
+    - tutorial 1
+        - abc.ipynb
+        - abc.py
+        - abc.png
+    - tutorial 2
+        - abc.ipynb
+        - abc.py
+        - abc.png
